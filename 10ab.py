@@ -1,12 +1,3 @@
-from aocd import submit
-#Ronan Lee, Jack Esposito
-#-------------------------------Run once!---------------------
-# get data from aocd
-#import os
-#os.system('del day10.txt')
-#os.system('aocd 10 2020 >> day10.txt')
-#--------------------------------------------------------------
-
 # ---- simple cubic O(n^3) time complexity / constant O(1) space complexity algorithm ----
 DP = {}
 lines = [0]
